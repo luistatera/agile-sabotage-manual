@@ -11,9 +11,9 @@ Agile Software Development has revolutionized the way teams deliver value, promo
 
 ## Table of Contents
 1. [Meetings & Communication](Chapter1.md)
-2. [Sprint Planning & Execution](docs/Chapter2.md)
-3. [Collaboration & Culture](docs/Chapter3.md)
-4. [Tools & Automation](docs/Chapter4.md)
+2. [Sprint Planning & Execution](Chapter2.md)
+3. [Collaboration & Culture](Chapter3.md)
+4. [Tools & Automation](Chapter4.md)
 
 ## How to Contribute
 We welcome contributions! Please open an issue or submit a pull request if you have additional ideas or improvements.
